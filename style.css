@@ -1,0 +1,97 @@
+body {   
+    margin: auto;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+#main {
+
+    width: 1024px;
+    margin: 40px auto;
+}
+
+#main img1 {
+
+    width: 350px;
+    height: 238px;
+    flex-shrink: 0;
+    margin: 64px auto 32px;
+
+}
+
+h1 {
+
+    color: #3F3D56;
+    font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+          
+}
+
+h1 span {
+    color: #EE24FF;
+    font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+    font-style: bolder;
+    font-weight: 700;
+    line-height: normal;
+    
+}
+
+h1, span {
+    width: 494px;
+    height: 40px;
+    margin: 32px auto 16px;
+}
+
+p {
+    color: #828282;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+
+}
+
+p strong {
+    color: #3F3D56;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+}
+
+p, p strong {
+    width: 540px;
+    height: 107px;
+    flex-shrink: 0;
+    margin: 16px auto 16px;
+}
+
+#footer {
+    width: 1024px;
+    margin: 54px auto;
+   
+}
+
+
+.Destino, .Ofertas, .Contato {
+
+    color: #3F3D56;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%;
+
+}
+
+#Wave {
+    width: 100%;
+    position: relative;
+        
+}
